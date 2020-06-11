@@ -2,7 +2,7 @@
 
 ## 電波の強度を可視化する事が出来るアソーブUSB ラジオキット  
 
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/ac00013e250d751a901cd29166e30204.png)
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/ac00013e250d751a901cd29166e30204.png)  
 コアと組み合わせて、ラジオの電波強度をグラフ化し、  
 周囲を飛び交う電波の強度を可視化する事が出来る電子工作キットです。  
 **Si4735 RADIO MODULEを搭載、タイマー録音にも対応** 
